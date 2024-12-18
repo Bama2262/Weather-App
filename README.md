@@ -1,3 +1,2 @@
 # Weather-App
-This is a simple project to create a weather app with the Python programming language. 
-with the help of "Bro Code" this project can be completed well.
+This project is a GUI based WeatherApp using PyQt5 in Python. This application allows users to get weather information based on the city name entered.
